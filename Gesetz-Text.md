@@ -8,9 +8,9 @@ Artikel 1
 
 Das E-Government-Gesetz vom 25. Juli 2013 (BGBl. I S. 2749) wird wie folgt geändert:
 
-    Die Inhaltsübersicht wird wie folgt geändert: a) Nach der Angabe zu § 12 wird folgende Angabe eingefügt: „§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung“. b) Folgende Angabe wird angefügt: „§ 19 Übergangsvorschriften“.
+Die Inhaltsübersicht wird wie folgt geändert: a) Nach der Angabe zu § 12 wird folgende Angabe eingefügt: „§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung“. b) Folgende Angabe wird angefügt: „§ 19 Übergangsvorschriften“.
 
-    Nach § 12 wird folgender § 12a eingefügt:
+Nach § 12 wird folgender § 12a eingefügt:
 
 „§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung
 
