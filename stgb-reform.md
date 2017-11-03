@@ -1,34 +1,48 @@
 ## Straftaten gegen das Leben
 
-### § 211 Mord
-(1) Der Mörder wird mit lebenslanger Freiheitsstrafe bestraft.
+### § 212 Mord
+(1) Wer einen anderen Menschen tötet und dabei
 
-(2) Mörder ist, wer
-aus Mordlust, zur Befriedigung des Geschlechtstriebs, aus Habgier oder sonst aus niedrigen Beweggründen,
-heimtückisch oder grausam oder mit gemeingefährlichen Mitteln oder
-um eine andere Straftat zu ermöglichen oder zu verdecken,
-einen Menschen tötet.
+1. dessen Wehrlosigkeit ausnutzt,
+2. grausam handelt oder
+3. wenigstens einen weiteren Menschen in die Gefahr des Todes bringt, 
 
-### § 212 Totschlag
-(1) Wer einen Menschen tötet, ohne Mörder zu sein, wird als Totschläger mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
+wird mit lebenslanger Freiheitsstrafe bestraft. Ebenso wird bestraft, wer einen anderen Menschen aus besonders verwerflichen Beweggründen tötet, insbesondere
+
+1. aus Mordlust,
+2. zur Befriedigung des Geschlechtstriebs,
+3. aus Habgier,
+4. um eine andere Straftat zu ermöglichen oder zu verdecken oder
+5. aus menschenverachtenden Beweggründen (§ 46 Absatz 2 Satz 2).
+
+(2) Liegen besondere Umstände vor, welche das Unrecht der Tat oder die Schuld des Täters erheblich mindern, ist auf Freiheitsstrafe nicht unter fünf Jahren zu erkennen. Das ist insbesondere dann der Fall, wenn der Täter
+
+1. aus Verzweiflung handelt, um sich oder einen ihm nahe stehenden Menschen aus einer ausweglos erscheinenden Konfliktlage zu befreien, oder
+2. ohne eigene Schuld durch eine ihm oder einem ihm nahe stehenden Menschen zugefügte schwere Beleidigung, Misshandlung, oder sonstige Rechtsverletzung zum Zorn gereizt oder in eine vergleichbar heftige Gemütsbewegung versetzt und dadurch unmittelbar zur Tat veranlasst worden ist.
+
+### § 211 Totschlag
+(1) Wer einen anderen Menschen tötet, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
 
 (2) In besonders schweren Fällen ist auf lebenslange Freiheitsstrafe zu erkennen.
 
-### § 213 Minder schwerer Fall des Totschlags
-War der Totschläger ohne eigene Schuld durch eine ihm oder einem Angehörigen zugefügte Mißhandlung oder schwere Beleidigung von dem getöteten Menschen zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen worden oder liegt sonst ein minder schwerer Fall vor, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
+(3) Liegen besondere Umstände vor, welche das Unrecht der Tat oder die Schuld des Täters erheblich mindern, ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. Das ist insbesondere dann der Fall, wenn der Täter
 
-### § 216 Tötung auf Verlangen
-(1) Ist jemand durch das ausdrückliche und ernstliche Verlangen des Getöteten zur Tötung bestimmt worden, so ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen.
+1. aus Verzweiflung handelt, um sich oder einen ihm nahe stehenden Menschen aus einer ausweglos erscheinenden Konfliktlage zu befreien, oder
+
+2. ohne eigene Schuld durch eine ihm oder einem ihm nahe stehenden Menschen zugefügte schwere Beleidigung, Misshandlung oder sonstige Rechtsverletzung zum Zorn gereizt oder in eine vergleichbar heftige Gemütsbewegung versetzt und dadurch unmittelbar zur Tat veranlasst worden ist.
+
+### § 213 Tötung auf Verlangen
+(1) Wer einen anderen Menschen auf dessen ausdrückliches und ernstliches Verlangen tötet, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
 
-### § 217 Geschäftsmäßige Förderung der Selbsttötung
+### § 214 Geschäftsmäßige Förderung der Selbsttötung
 (1) Wer in der Absicht, die Selbsttötung eines anderen zu fördern, diesem hierzu geschäftsmäßig die Gelegenheit gewährt, verschafft oder vermittelt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(2) Als Teilnehmer bleibt straffrei, wer selbst nicht geschäftsmäßig handelt und entweder Angehöriger des in Absatz 1 genannten anderen ist oder diesem nahesteht.
+(2) Als Teilnehmer bleibt straffrei, wer selbst nicht geschäftsmäßig handelt und entweder Angehöriger des in Absatz 1 genannten anderen Menschen ist oder diesem nahesteht.
 
-### § 221 Aussetzung
-(1) Wer einen Menschen
+### § 216 Aussetzung
+(1) Wer einen anderen Menschen
 
 1. in eine hilflose Lage versetzt oder
 2. in einer hilflosen Lage im Stich läßt, obwohl er ihn in seiner Obhut hat oder ihm sonst beizustehen verpflichtet ist,
@@ -44,5 +58,5 @@ und ihn dadurch der Gefahr des Todes oder einer schweren Gesundheitsschädigung 
 
 (4) In minder schweren Fällen des Absatzes 2 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
 
-### § 222 Fahrlässige Tötung
-Wer durch Fahrlässigkeit den Tod eines Menschen verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+### § 215 Fahrlässige Tötung
+Wer einen anderen Menschen fahrlässig tötet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Handelt der Täter leichtfertig, so ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
