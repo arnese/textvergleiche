@@ -347,9 +347,7 @@ Maßnahmen
 
 50. Bessere Kurszuweisung: Sicherstellung der Teilnahme von Verpflichteten am Integrationskurs durch verstärkte und verbesserte Zuweisung von Teilnehmern.
 
-51. Soziale Begleitung der Kurse: Evaluierung des Pilotprojekts zur sozialen Begleitung der lntegrationskurse, mit der für Teilnehmende mit Traumata und
-
-Lernschwierigkeiten eine Hilfestellung angeboten wird .
+51. Soziale Begleitung der Kurse: Evaluierung des Pilotprojekts zur sozialen Begleitung der lntegrationskurse, mit der für Teilnehmende mit Traumata und Lernschwierigkeiten eine Hilfestellung angeboten wird .
 
 52. Integrationsprojektförderung: Ermittlung von Wirkungsmodellen für die Integrationsprojektförderung des BAMF und Entwicklung von Empfehlungen für Projektträger.
 
