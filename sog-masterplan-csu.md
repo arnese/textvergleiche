@@ -401,9 +401,9 @@ Praktikablere Ausgestaltung der Abschiebungshaft einschließlich des Antragsverf
 
 • stärkere Verfolgung des sog. kohärenten Ansatzes gegenüber den Herkunftsländern und Steigerung der Rückübernahmebereitschaft der Herkunftsländer durch Einsatz der gesamten Bandbreite aller Politikfelder.
 
-• Großzügige Visavergabe nur bei echter Rücknahmebereitschaft: Ausbau des sog. Visa-Hebels zur Motivation der Herkunftsländer zu einer besseren Kooperation sowie der Verbesserung der übergabemodalitäten bei Rückführungen. Verknüpfung Visa- und Rückkehrpolitik und Nutzung der Visa-Vergabe als Anreiz für eine Verbesserung der Kooperationsbereitschaft bestimmter Herkunftsländer.
+• Großzügige Visavergabe nur bei echter Rücknahmebereitschaft: Ausbau des sog. Visa-Hebels zur Motivation der Herkunftsländer zu einer besseren Kooperation sowie der Verbesserung der Übergabemodalitäten bei Rückführungen. Verknüpfung Visa- und Rückkehrpolitik und Nutzung der Visa-Vergabe als Anreiz für eine Verbesserung der Kooperationsbereitschaft bestimmter Herkunftsländer.
 
-61. Verbesserung der Rücknahmebedingungen in den Herkunftsländern bei Gefährdern: Dialog mit der Justiz, um steigenden Anforderungen der Rechtsprechung (z. B.: diplomatische Zusicherungen) im Kontext der Aufenthaltsbeendigung von Gefährdern zu begegnen. Damit Erleichterung und Beschleunigung von Rückführungen, insbesondere dieser Personengruppe.
+61. Verbesserung der Rücknahmebedingungen in den Herkunftsländern bei Gefährdern: Dialog mit der Justiz, um steigenden Anforderungen der Rechtsprechung (z.B.: diplomatische Zusicherungen) im Kontext der Aufenthaltsbeendigung von Gefährdern zu begegnen. Damit Erleichterung und Beschleunigung von Rückführungen, insbesondere dieser Personengruppe.
 
 62. Sofortige Ausstellung von Reisedokumenten: Ausbau des EU-Laissez-Passer-Verfahrens. Minderung von Vollzugsdefiziten bei Rückführungen durch enorme Vereinfachung bei Beschaffung von Reisedokumenten.
 
