@@ -100,10 +100,15 @@ Maßnahmen
 10. Ausbau und Stärkung der internationalen polizeilichen Zusammenarbeit:
 
 • Ausbau des Verbindungsbeamten-Netzwerkes der Bundespolizei in den Herkunfts- und Transitländern. Dadurch soll die direkte Kommunikation mit den Herkunftsländern zur Verhinderung von illegaler Migration verbessert werden.
+
 • Effektivierung des Engagements der internationalen Gemeinschaft: Weiterentwicklung der zivilen VN- und EU-Polizei-Missionen in Herkunfts- und Transitländern zur Stabilisierung der Sicherheitslage in betroffenen Staaten,
+
 • Beteiligung an internationalen Einsätzen: Bildung eines Personalpools zum Ausbau der deutschen Beteiligung an internationalen Polizeieinsätzen und somit Erleichterung der Entsendung in Auslandseinsätze und
+
 • Erweiterung der Finanzausstattung durch:
+
 • Deutliche Erhöhung des BMI Haushaltstitels für bilaterale Maßnahmen der polizeilichen Ausbildungs- und Ausstattungshilfe auf 6 Mio. € (zuzüglich 0,5 Mio. € jährlich als Sondertatbestand bis 2020) in den Herkunfts- und Transitländern zur Stärkung der dortigen Sicherheitsbehörden und Förderung eines wirksamen Grenzmanagements sowie
+
 • Schaffung eines neuen BMI Haushaltstitels als Anteil aus den Ertüchtigungsmitteln des Auswärtigen Amtes (AA) zur flexiblen Verwendung im polizeilichen Kapazitätsaufbau in Drittstaaten (z. B. IT­ Projekte im ldentitätsmanagement, lnterpolprojekte, Grenzprojekte in Herkunfts- und Transitstaaten).
 
 II. Handlungsfeld Transitländer
@@ -117,6 +122,7 @@ Maßnahmen
 11. Einrichtung von sog. "Sicheren Orten": Zur Verhinderung weiterer Flucht- und Migrationsbewegungen, Stärkung der Aufnahmekapazitäten sowie Verbesserung der Aufnahmebedingungen, insbesondere in Regionen im Umfeld von Konfliktherden durch die Errichtung von Sicheren Orten in:
 
 • Nordafrika (zur Rückführung von im Mittelmeer aufgegriffenen Flüchtlingen) und
+
 • Sahel-Region (als Anlaufstelle für Flüchtlinge in Konfliktregionen) unterstützt durch die EU bzw. der Völkergemeinschaft Dabei Gewährleistung einer robusten Sicherung dieser Orte sowie Erwartungsmanagement hinsichtlich der Erfolgsaussichten einer Weiterreise nach Europa, Ermöglichung der Rückführung und Resettlement aus diesen. Die Aufnahme über Resettlement wäre abhängig von den Gesamtzugangszahlen nach Deutschland.
 
 12. Aktivierung von EU-Geldern für Konfliktherde: Erhöhung der Finanzausstattung des EU-Afrika Trust Fonds (Maßnahmenplan der EU für Stabilität und der Bekämpfung der Fluchtursachen in Afrika) im Rahmen der Verhandlungen zum Mehrjährigen Finanzrahmen (MFR) der EU für den Zeitraum von 2020 bis 2027.
@@ -142,9 +148,13 @@ Maßnahmen
 18. Stärkung von Frontex:
 
 • Personelle und geografische Ausweitung der Einsätze,
+
 • Aufbau einer eigenen operativen Einsatzeinheit im Frontex-Hauptquartier sowie Beschaffung zusätzlicher Frontex-eigener Einsatzmittel (z.B. Streifenfahrzeuge, Wärmebildgeräte),
+
 • Entsendung weiterer Frontex-Verbindungsbeamter in Drittstaaten,
+
 • zügiger Ausbau der operativen Zusammenarbeit, weitere Übungen des Frontex-Soforteinsatzpools (SEP) an besonders belasteten Grenzabschnitten sowie weiterer personeller Aufwuchs des SEP und
+
 • Senkung der Anforderungen für Einsatz des SEP durch erforderliche Rechtsänderungen auf EU-Ebene.
 
 19. Europäische Grenzpolizei: Ausbau von Frontex zu einer "Europäischen Grenzpolizei" unter grundsätzlicher Wahrung der Souveränität und Zuständigkeit der Mitgliedstaaten für den Schutz der eigenen Landesgrenzen.
@@ -152,7 +162,9 @@ Maßnahmen
 20. Gemeinsames Europäisches Asylsystem: Schaffung eines effizienten, krisenfesten und solidarischen Gemeinsamen Europäischen Asylsystems (GEAS) samt Optimierung der Dublin-Verordnung (Dublin-VO). Nachdrücklicher Einsatz des BMI für:
 
 • Schnelle Asylverfahren nach EU-weit einheitlichen Standards sowie für die Angleichung der Aufnahmebedingungen und Asylleistungen in den Mitgliedstaaten,
+
 • Bekämpfung von Asylmissbrauch und Sekundärmigration (u. a. durch Leistungsabsenkung bei Aufenthalt im unzuständigen Mitgliedstaat) und
+
 • klare Verantwortlichkeiten und effiziente Verfahren sowie faire Lastenteilung zwischen allen Mitgliedstaaten im Rahmen der Vorgaben der Dublin-VO, einschließlich einer solidarischen Verteilung von Schutzbedürftigen im Krisenfall, ohne die Staaten mit Außengrenze von ihrer Verantwortung freizustellen.
 
 21. Einhaltung der bestehenden Dublin-VO: Einforderung der konsequenten Einhaltung der Dublin-VO durch alle Mitgliedstaaten der EU und Intensivierung der Gespräche mit diesen zur Erhöhung der Überstellungszahlen von Asylbewerbern in die zuständigen Mitgliedstaaten; andernfalls Ergreifen innerstaatlicher Maßnahm en zur Steigerung der Effizienz bei Dublinüberstellungen, insbesondere bei erneuter illegaler Rückkehr nach Deutschland.
@@ -182,8 +194,11 @@ Autorisierungssystem (ETIAS), durch das bereits vor Abreise in dem Drittstaat ei
 27. Binnengrenzkontrollen:
 
 • Durchführung von vorübergehenden Binnengrenzkontrollen nach Schengener Grenzkodex (SGK) im erforderlichen Umfang. Die aktuelle Anordnung gilt für die deutsch-österreichische Landgrenze bis November 2018.
+
 • Im Rahmen durchgeführter Binnengrenzkontrollen erfolgen wie bisher Zurückweisungen, wenn die Einreisevoraussetzungen d es SGK nicht erfüllt sind (z. B. fehlendes Grenzübertrittsdokument oder Visum). Inzwischen werden auch Personen zurückgewiesen, gegen die ein Einreise- oder Aufenthaltsverbot für Deutschland besteht, ungeachtet der Frage, ob sie ein Asylgesuch stellen. Dies gilt auch für Personen, die bereits an andere Mitgliedsstaaten überstellt worden sind und versuchen nach Deutschland zurückzukehren.
+
 • Künftig ist auch die Zurückweisung von Schutzsuchenden beabsichtigt, wenn diese in einem anderen EU-Mitgliedstaat bereits einen Asylantrag gestellt haben oder dort als Asylsuchende registriert sind.
+
 • Wie mit dem Grenzregime weiter zu verfahren ist, muss im Lichte der kurzfristig zu erwartenden Ergebnisse der Reformbestrebungen des Gemeinsamen Europäischen Asylsystems (GEAS) entschieden werden.
 
 28. Intensive Schleierfahndung: Entwicklung von Maßnahmen unterhalb der Schwelle von vorübergehenden Binnengrenzkontrollen gemäß SGK, die ein flexibles polizeiliches Agieren an allen deutschen Landgrenzen, einschließlich temporärer Kontrollen des grenzüberschreitenden Verkehrs durch die Bundespolizei beinhalten und damit aktiven Beitrag zur Verhinderung der illegalen Migration und der Bekämpfung grenzüberschreitender Kriminalität leisten.
@@ -205,70 +220,103 @@ Maßnahmen
 32. Optimierung des Asylverfahrens: Einrichtung von Ankunfts-, Entscheidungs­ und Rückführungszentren (AnkER-Zentren) als moderne Dienstleistungsbehörden sowie Umsetzung gemeinsam mit den Bundesländern. Schnelle, effiziente und sichere Asylverfahren durch Bündelung von Kompetenzen von Bund, Ländern und Kommunen. Der entscheidende Vorteil der AnkER-Zentren ist, dass künftig eine Verteilung der Antragsteller auf die Städte und Gemeinden erst erfolgt, wenn ihr Schutzstatus positiv festgestellt ist. Aufgaben und Verfahren der AnkER­ Zentren sind im Koalitionsvertrag konkret und für die Parteien der Koalition verbindlich beschrieben. Im Einzelnen:
 
 • In AnkER-Zentren: Präsenz und Zusammenarbeit aller am Asylverfahren beteiligten Behörden auf Bundes-, Landes- und kommunaler Ebene, d. h. insbesondere BAMF, BA, Aufnahmeeinrichtungen der Länder, Ausländerbehörden und Jugendämter. Möglichst auch Präsenz des zuständigen Verwaltungsgerichts vor Ort, um die verwaltungsgerichtlichen Eilverfahren weiter zu beschleunigen,
+
 • Durchführung des gesamten Asylverfahrens in AnkER-Zentren von Antragstellung bis zur Asylentscheidung, einschließlich Rückkehrberatung, freiwilliger Rückkehr oder Rückführung. Dort auch generelle Altersfeststellung bei Zweifelsfällen.
+
 • Aufenthaltszeiten für Menschen in den Einrichtungen so kurz wie möglich. Neben Verfahren im BAMF sind die Zeiträume bis zum Vorliegen verwaltungsgerichtlicher Entscheidungen in Eil- und Hauptsacheverfahren zu verkürzen. Verwaltungsgerichte müssen schnellstmöglich entscheiden.
+
 • Wohnsitznahmepflicht für Antragsteller in AnkER-Zentren und Aufenthaltspflicht im Bezirk der unteren Ausländerbehörde (Voraussetzung für den Erhalt von Sozialleistungen) bis max. 18 Monate bzw. 6 Monate für Familien,
+
 • konsequenter Vorrang von Sachleistungen vor Geldleistungen in den Zentren als Regelfall,
+
 • Anwendung dieser Prinzipien auch auf die in den Zentren untergebrachten Antragsteller, für die ein Dublin-Verfahren läuft,
+
 • unmittelbare Durchsetzung der Ausreisepflicht aus den AnkER-Zentren nach bestandskräftigem Abschluss des erfolglosen Asylverfahrens und
+
 • stärkere Einbindung der Bundespolizei bei Rückführungen und Dublinüberstellungen auf dem Luftweg; hierzu ggf. personelle Verstärkung der Bundespolizei für die RückführungsbegIeitung.
+
 • über die Fragen der konkreten Ausgestaltung der AnkER-Zentren sowie der Zuständigkeit und Trägerschaft werden Vereinbarungen zwischen Bund und Ländern getroffen.
+
 • Beginn des Betriebs der AnkER-Zentren auf der Grundlage des geltenden Rechts; spätere Entscheidung über ggf. erforderliche Rechtsänderungen im Lichte der dabei gesammelten Erfahrungen.
 
 33. Qualitätssteigerung im Asylverfahren:
 
 • Einrichtung einer unabhängigen Stelle eines Beauftragten zur überwachung der Prozesse im BAMF und zur Qualitätssicherung der Asylentscheidungen,
+
 • Durchsetzung des Mehr-Augen-Prinzips,
+
 • Einführung eines Rotationsprinzips bei Mitarbeitern,
+
 • bundesweite Kontrolle von Asylentscheidungen und Schutzquoten,
+
 • lückenlose Sicherheitsprüfungen mit erkennungsdienstlicher Behandlung (im Einzelnen dazu Maßnahme 37),
+
 • Gesundheitsprüfungen (im Einzelnen dazu Maßnahme 36) und
+
 • umfassende Schulung und einheitliche Handlungsleitfäden für alle Verfahrensschritte, weitere Erprobung und flächen deckende Einführung von IT-Assistenzsystemen für Identifizierungszwecke durch BAMF.
 
 34. Konsequente Prüfung d es Wegfalls der Schutzberechtigung:
 
 • Durchführung von Widerrufsverfahren bei rechtskräftig verurteilten Straftätern und bei Heimataufenthalten von Schutzberechtigten, die angegeben hatten, in ihrem Heimatland bedroht zu sein.
+
 • Bei Heimataufenthalten während des laufenden Asylverfahrens gilt in diesen Fällen der Asylantrag als zurückgenommen.
+
 • Hierzu Verbesserung des Datenaustausches zwischen Leistungs- und Ausländerbehörden mit BAMF, um ggf. sofort eine überprüfung einzuleiten.
+
 • Daneben Einführung einer gesetzlichen Mitwirkungspflicht der Schutzberechtigten im Widerrufsverfahren.
 
 35. Beschleunigte Verfahren: Durchführung beschleunigter Verfahren nach § 30a AsylG mit eingeschränkten Rechten des Schutzsuchenden (z.B. verkürzte Rechtsmittelfristen) durch:
 
 • Konsequente Anwendung bereits bestehender gesetzlicher Vorgaben zur Durchführung eines beschleunigten Verfahrens u.a. für Schutzsuchende aus sicheren Herkunftsländern, für Folgeantragsteller sowie bei fehlender Mitwirkung im Asylverfahren und
+
 • Erweiterung des Anwendungsbereichs für beschleunigte Verfahren gemäß § 30a AsylG bei Nichtvorlage von ldentitätsdokumenten.
 
 36. Altersfeststellung und verpflichtende medizinische Untersuchung durch:
 
 • Hinwirken auf die Einführung einer verbindlichen medizinischen Altersfeststellung bei Vorliegen von Zweifeln an der Minderjährigkeit des Schutzsuchenden und
+
 • flächendeckende Anwendung der bereits gesetzlich bestehenden Verpflichtungen zu einer medizinischen Untersuchung, insbesondere bei übertragbaren Krankheiten, sowie vergleichbare verpflichtende Untersuchungen auch bei Personen, die nicht verpflichtet sind, in Aufnahmeeinrichtungen oder Gemeinschaftsunterkünften zu wohnen (z.B. bei minderjährigen Asylantragstellern und bei Familiennachzug zu anerkannten Schutzberechtigten).
 
 37. Bessere Identifizierung und Sicherheitsprüfung von Drittstaatsangehörigen durch:
 
 • Verbesserung des technischen Verfahrens zur Feststellung von Sicherheitsbedenken; generelle Einbeziehung der Bundespolizei und Ermöglichung der übermittlung und Nutzung der AZR-Nummer zur eindeutigen Identifizierung in den Sicherheitsüberprüfungsverfahren, Schaffung einheitlicher Prozesse und Abgleichmöglichkeiten bei der Sicherheitsüberprüfung von Drittstaatsangehörigen,
+
 • Ausbau des Ausländerzentralregister (AZR) zum alleinigen zentralen Ausländerdateisystem und Abschaffung dezentraler Ausländerdateien in den Ausländerbehörden; dabei Fortentwicklung hin zu einer stärkere n Automatisierung,
+
 • Einführung eines standardisierten Prozesses aller beteiligten Behörden zur besseren und schnelleren Identifizierung von Mehrfach- und Intensivtätern mit dem Ziel, erforderliche polizeiliche (Gefahrenabwehr, Strafverfolgung) sowie asyl- und aufenthaltsrechtliche Maßnahmen (Widerrufsprüfung, Aufenthaltsbeendigung) eng aufeinander abzustimmen,
+
 • Verbesserung der Identifizierungsfunktion bei allen Drittstaatsangehörigen durch Speicherung und konsequentem Abgleich biometrischer Daten und eindeutiger Ordnungsmerkmale,
+
 • Herabsetzung des Mindestalters für die Abnahme von Fingerabdrücken auf den Zeitpunkt der Vollendung des sechsten Lebensjahres,
+
 • Ausweitung der Speichertatbestände im AZR zur besseren Steuerung von Rückführungen und freiwilligen Ausreisen sowie gewährten Ausreiseförderungen und bessere Identifizierung bei Rückführungen und
+
 • Aufbau eines europäischen Kerndatensystems zur europaweiten Verifizierung und überprüfung von ldentitäten, einschließlich des Austauschs mit Drittstaaten.
 
 38. Leistungsrechtliche Sanktionierung bei Verletzung von Mitwirkungspflichten im Asylverfahren durch Schaffung eines unmittelbaren Datenaustausches zwischen BAMF und Leistungsbehörden. Leistungskürzungen nach dem Asylbewerberleistungsgesetz (Asylb LG) insbesondere bei:
 
 • Nichtmitwirkung bei der Identitätsklärung oder der Klärung der Staatsangehörigkeit, bei Terminen zur förmlichen Antragstellung beim BAMF, der Passersatzbeschaffung oder dem Vollzug der Ausreise trotz bestehender Ausreisepflicht und
+
 • Verstößen gegen die Pflicht zur Wohnsitznahme und bei "Untertauchen".
 
 39. Bekämpfung von Asylleistungsmissbrauch durch:
 
 • Konsequente Anwendung des Sachleistungsprinzips bei Unterbringung in Aufnahmeeinrichtungen / Gemeinschaftsunterkünften und bei Ausreisepflichtigen (ggf. Einführung ein er neuen Regelbedarfsstufe) als Regelfall,
+
 • Verlängerung der Bezugsdauer von niedrigeren Leistungen nach dem AsylbLG auf 36 Monate, statt aktuell 15 Monate, zur Verzögerung von übergang in die mit höheren Sätzen versehene Sozialhilfe nach dem SGB XII und
+
 • Ermöglichung der Aufnahme von gemeinwohlorientierter Erwerbstätigkeit im laufenden Asylverfahren zur Strukturierung des Tagesablaufs während der Wartezeit.
 
 40. Optimierung asylgerichtlicher Verfahren:
 
 • Erarbeitung eines Gesetzentwurfs zur Entlastung der Verwaltungsgerichte und Beschleunigung der Verfahren,
+
 • Erhöhung der personellen Ausstattung der Gerichte und Beteiligung von mehr Richtern, die noch nicht auf Lebenszeit angestellt sind, bei Gerichtsentscheidungen,
+
 • Einführung eines Vorabentscheidungsverfahrens beim Bundesverwaltungsgericht zur Klärung von Grundsatzfragen,
+
 • Überprüfung der Rechtsmittel im Asylverfahren und Vollziehbarkelt der Ausreisepflicht trotz Rechtsmittelverfahren und
+
 • Prüfung der Beteiligung von Schutzsuchenden an Gerichtskosten.
 
 41. Konsequente Umsetzung der zukünftigen Regelung zum Familiennachzug zu subsidiär Schutzberechtigten.
@@ -317,32 +365,39 @@ Maßnahmen
 55. Effektiv gegen Gefährder und Straftäter:
 
 • Einrichtung einer "Task Force" im Bundesministerium des lnnern, für Bau und Heimat, welche die zuständigen Landesbehörden unterstützt und zu einer besseren Vernetzung mit den Behörden anderer Mitgliedstaaten in Europa beiträgt,
+
 • Ausweisungsrecht weiter verschärfen: Wer sein Aufenthaltsrecht dazu missbraucht, um Straftaten zu begehen, muss unser Land verlassen. Das gesetzliche Mindeststrafmaß, das zur Ausweisung führt, wird überprüft.
 
 56. Freiwillige Rückkehr stärken:
 
 • Gemeinsame Rückkehrprogramme von Bund und Ländern zur Stärkung der Rückkehr ausbauen und
+
 • Entwicklung einer neuen Konzeption der Rückkehrberatung der Länder, die mit der Rückkehrförderung des Bundes einhergeht und stärker auf Ausländerbehörden oder andere staatliche Behörden setzt. Dabei sollen die Aussichten des Asylverfahrens und bei Ausreisepflichtigen die Erfüllung der Ausreisepflicht als Alternative zur sonst erfolgenden Abschiebung in den Vordergrund gestellt werden.
 
 57. Strukturen optimieren:
 
 • Effizienzsteigerung durch Zentralisierung; Fortentwicklung des Ansatzes zentraler Ausländerbehörden der Länder für die Aufenthaltsbeendigung und
+
 • Ausbau der Bund-Länder-Zusammenarbeit: Weiterer Ausbau des Zentrums zur Unterstützung der Rückkehr (ZUR) zum zentralen Dienstleister des Bundes und der Länder im Rückkehrmanagement. Damit Unterstützung der Länder bei der Durchsetzung der Ausreisepflicht und Beitrag zur besseren und einheitlicheren Praxis bundesweit. Auf Wunsch der Länder übernimmt das BMI bzw. sein Geschäftsbereich die Beschaffung von Passersatzpapieren.
 
 58. Handlungsfähigkeit des Rechtsstaats bewahren:
 
 • Schaffung weiterer Sanktionsmöglichkeiten bei Behinderung der Durchsetzung der Ausreisepflicht durch Dritte und
+
 • Möglichkeiten zum Missbrauch von ärztlichen Attesten weiter einschränken.
 
 59. Verhindern von Untertauchen durch Abschiebungshaft:
 
 • Praktikablere Ausgestaltung der Abschiebungshaft einschließlich des Antragsverfahrens durch gesetzliche Änderungen; damit Sicherstellung der tatsächlichen Greifbarkeit von Ausreisepflichtigen und Verhinderung von Untertauchen im Falle bevorstehender Abschiebung, Nutzung sämtlicher Ressourcen für Abschiebungshaft: Um der aktuellen Notlage bei Abschiebungshaftplätzen zu begegnen, befristete Aussetzung der erst auf Grund der EU-Rückführungsrichtlinie eingeführten Trennung von Abschiebungsgefangenen und anderen Häftlingen entsprechend Art. 18 der EU-Rückführungsrichtlinie,
+
 • Anhalten der Länder zum Aufbau ausreichender Haftplätze für Abschiebungshaft und Ausreisegewahrsam und
+
 • Prüfung der Schaffung eigener Gewahrsamseinrichtungen durch den Bund an den Verkehrsflughäfen vor allem zur Erleichterung von Sammelabschiebungen; ferner weiterer Ausbau der Bundeszuständigkeit im Rückkehrbereich zur Effizienzgewinnung. Insbesondere wird sich das BMI verstärkt bei den Flugrückführungen (z.B. Flugcharter) engagieren, vor allem bei Dublinüberstellungen.
 
 60. Rückübernahme eigener Bürger durch Herkunftsländer:
 
 • stärkere Verfolgung des sog. kohärenten Ansatzes gegenüber den Herkunftsländern und Steigerung der Rückübernahmebereitschaft der Herkunftsländer durch Einsatz der gesamten Bandbreite aller Politikfelder.
+
 • Großzügige Visavergabe nur bei echter Rücknahmebereitschaft: Ausbau des sog . Visa-Hebels zur Motivation der Herkunftsländer zu einer besseren Kooperation sowie der Verbesserung der übergabemodalitäten bei Rückführungen. Verknüpfung Visa- und Rückkehrpolitik und Nutzung der Visa-Vergabe als Anreiz für eine Verbesserung der Kooperationsbereitschaft bestimmter Herkunftsländer.
 
 61. Verbesserung der Rücknahmebedingungen in den Herkunftsländern bei Gefährdern: Dialog mit der Justiz, um steigenden Anforderungen der Rechtsprechung (z. B.: diplomatische Zusicherungen) im Kontext der Aufenthaltsbeendigung von Gefährdern zu begegnen. Damit Erleichterung und Beschleunigung von Rückführungen, insbesondere dieser Personengruppe.
