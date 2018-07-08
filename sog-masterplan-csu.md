@@ -107,9 +107,9 @@ Maßnahmen
 
 • Erweiterung der Finanzausstattung durch:
 
-• Deutliche Erhöhung des BMI Haushaltstitels für bilaterale Maßnahmen der polizeilichen Ausbildungs- und Ausstattungshilfe auf 6 Mio. € (zuzüglich 0,5 Mio. € jährlich als Sondertatbestand bis 2020) in den Herkunfts- und Transitländern zur Stärkung der dortigen Sicherheitsbehörden und Förderung eines wirksamen Grenzmanagements sowie
+• Deutliche Erhöhung des BMI-Haushaltstitels für bilaterale Maßnahmen der polizeilichen Ausbildungs- und Ausstattungshilfe auf 6 Mio. € (zuzüglich 0,5 Mio. € jährlich als Sondertatbestand bis 2020) in den Herkunfts- und Transitländern zur Stärkung der dortigen Sicherheitsbehörden und Förderung eines wirksamen Grenzmanagements sowie
 
-• Schaffung eines neuen BMI Haushaltstitels als Anteil aus den Ertüchtigungsmitteln des Auswärtigen Amtes (AA) zur flexiblen Verwendung im polizeilichen Kapazitätsaufbau in Drittstaaten (z. B. IT­ Projekte im ldentitätsmanagement, lnterpolprojekte, Grenzprojekte in Herkunfts- und Transitstaaten).
+• Schaffung eines neuen BMI-Haushaltstitels als Anteil aus den Ertüchtigungsmitteln des Auswärtigen Amtes (AA) zur flexiblen Verwendung im polizeilichen Kapazitätsaufbau in Drittstaaten (z.B. IT-Projekte im Identitätsmanagement, Interpolprojekte, Grenzprojekte in Herkunfts- und Transitstaaten).
 
 II. Handlungsfeld Transitländer
 
