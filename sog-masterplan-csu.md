@@ -389,7 +389,9 @@ Maßnahmen
 
 59. Verhindern von Untertauchen durch Abschiebungshaft:
 
-• Praktikablere Ausgestaltung der Abschiebungshaft einschließlich des Antragsverfahrens durch gesetzliche Änderungen; damit Sicherstellung der tatsächlichen Greifbarkeit von Ausreisepflichtigen und Verhinderung von Untertauchen im Falle bevorstehender Abschiebung, Nutzung sämtlicher Ressourcen für Abschiebungshaft: Um der aktuellen Notlage bei Abschiebungshaftplätzen zu begegnen, befristete Aussetzung der erst auf Grund der EU-Rückführungsrichtlinie eingeführten Trennung von Abschiebungsgefangenen und anderen Häftlingen entsprechend Art. 18 der EU-Rückführungsrichtlinie,
+Praktikablere Ausgestaltung der Abschiebungshaft einschließlich des Antragsverfahrens durch gesetzliche Änderungen; damit Sicherstellung der tatsächlichen Greifbarkeit von Ausreisepflichtigen und Verhinderung von Untertauchen im Falle bevorstehender Abschiebung,
+
+• Nutzung sämtlicher Ressourcen für Abschiebungshaft: Um der aktuellen Notlage bei Abschiebungshaftplätzen zu begegnen, befristete Aussetzung der erst auf Grund der EU-Rückführungsrichtlinie eingeführten Trennung von Abschiebungsgefangenen und anderen Häftlingen entsprechend Art. 18 der EU-Rückführungsrichtlinie,
 
 • Anhalten der Länder zum Aufbau ausreichender Haftplätze für Abschiebungshaft und Ausreisegewahrsam und
 
