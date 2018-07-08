@@ -135,13 +135,13 @@ Maßnahmen
 
 16. Kapazitätsaufbau in Transitländern: Unterstützung von Maßnahmen zum asyl- und migrationsbezogenen Kapazitätsaufbau in Transitländern.
 
-17. "Nordafrikastrategie": Fortentwicklung der sog. Nordafrikastrategie als Instrument der umfassenden Analyse und strategischen Planung von Maßnahmen des BMI für die Region Nordafrika und die angrenzende Sahel­Region.
+17. "Nordafrikastrategie": Fortentwicklung der sog. Nordafrikastrategie als Instrument der umfassenden Analyse und strategischen Planung von Maßnahmen des BMI für die Region Nordafrika und die angrenzende Sahel-Region.
 
 III. Handlungsfeld Europäische Union
 
 Politische Ziele
 
-Wir wollen eine effektive Steuerung von Migration in der Europäischen Union. Das können wir nur durch vertiefte Zusammenarbeit erreichen. Sicherheit beginnt an den Grenzen . Wir wollen daher den Außengrenzschutz verbessern. Wir streben die Schaffung eines funktionierenden Gemeinsamen Europäischen Asylsystems (GEAS) einschließlich Dublin-Mechanismus an. Wir wollen eine verlässliche und umfassende Zusammenarbeit und Kommunikation der Europäischen Union mit den Herkunfts- und Transitländern illegaler Migration. Je weniger das gemeinsame europäische Asylsystem leisten kann, desto mehr gewinnen nationale Maßnahmen und ihre Wirksamkeit an Bedeutung.
+Wir wollen eine effektive Steuerung von Migration in der Europäischen Union. Das können wir nur durch vertiefte Zusammenarbeit erreichen. Sicherheit beginnt an den Grenzen. Wir wollen daher den Außengrenzschutz verbessern. Wir streben die Schaffung eines funktionierenden Gemeinsamen Europäischen Asylsystems (GEAS) einschließlich Dublin-Mechanismus an. Wir wollen eine verlässliche und umfassende Zusammenarbeit und Kommunikation der Europäischen Union mit den Herkunfts- und Transitländern illegaler Migration. Je weniger das gemeinsame europäische Asylsystem leisten kann, desto mehr gewinnen nationale Maßnahmen und ihre Wirksamkeit an Bedeutung.
 
 Maßnahmen
 
@@ -159,23 +159,25 @@ Maßnahmen
 
 19. Europäische Grenzpolizei: Ausbau von Frontex zu einer "Europäischen Grenzpolizei" unter grundsätzlicher Wahrung der Souveränität und Zuständigkeit der Mitgliedstaaten für den Schutz der eigenen Landesgrenzen.
 
-20. Gemeinsames Europäisches Asylsystem: Schaffung eines effizienten, krisenfesten und solidarischen Gemeinsamen Europäischen Asylsystems (GEAS) samt Optimierung der Dublin-Verordnung (Dublin-VO). Nachdrücklicher Einsatz des BMI für:
+20. Gemeinsames Europäisches Asylsystem: Schaffung eines effizienten, krisenfesten und solidarischen Gemeinsamen Europäischen Asylsystems (GEAS) samt Optimierung der Dublin-Verordnung (Dublin-VO). 
+
+Nachdrücklicher Einsatz des BMI für:
 
 • Schnelle Asylverfahren nach EU-weit einheitlichen Standards sowie für die Angleichung der Aufnahmebedingungen und Asylleistungen in den Mitgliedstaaten,
 
-• Bekämpfung von Asylmissbrauch und Sekundärmigration (u. a. durch Leistungsabsenkung bei Aufenthalt im unzuständigen Mitgliedstaat) und
+• Bekämpfung von Asylmissbrauch und Sekundärmigration (u.a. durch Leistungsabsenkung bei Aufenthalt im unzuständigen Mitgliedstaat) und
 
 • klare Verantwortlichkeiten und effiziente Verfahren sowie faire Lastenteilung zwischen allen Mitgliedstaaten im Rahmen der Vorgaben der Dublin-VO, einschließlich einer solidarischen Verteilung von Schutzbedürftigen im Krisenfall, ohne die Staaten mit Außengrenze von ihrer Verantwortung freizustellen.
 
-21. Einhaltung der bestehenden Dublin-VO: Einforderung der konsequenten Einhaltung der Dublin-VO durch alle Mitgliedstaaten der EU und Intensivierung der Gespräche mit diesen zur Erhöhung der Überstellungszahlen von Asylbewerbern in die zuständigen Mitgliedstaaten; andernfalls Ergreifen innerstaatlicher Maßnahm en zur Steigerung der Effizienz bei Dublinüberstellungen, insbesondere bei erneuter illegaler Rückkehr nach Deutschland.
+21. Einhaltung der bestehenden Dublin-VO: Einforderung der konsequenten Einhaltung der Dublin-VO durch alle Mitgliedstaaten der EU und Intensivierung der Gespräche mit diesen zur Erhöhung der Überstellungszahlen von Asylbewerbern in die zuständigen Mitgliedstaaten; andernfalls Ergreifen innerstaatlicher Maßnahmen zur Steigerung der Effizienz bei Dublinüberstellungen, insbesondere bei erneuter illegaler Rückkehr nach Deutschland.
 
 22. Festigung der Strukturen an der Außengrenze: Unterstützung der Erstaufnahmezentren in Italien und Griechenland (Hotspots) durch ausreichend Personal der Mitgliedstaaten. Ausweitung des Hotspot-Konzepts in Italien.
 
-23. Entwicklung eines Standardmodells für europäische Erstaufnahmeeinrichtungen: Erarbeitung einer deutschen Initiative gegenüber der EU-Kommission zur Entwicklung eines Hotspot-Standardmodells. Dadurch Gewährleistung der übertragbarkeit auf andere Regionen im Bedarfsfall.
+23. Entwicklung eines Standardmodells für europäische Erstaufnahmeeinrichtungen: Erarbeitung einer deutschen Initiative gegenüber der EU-Kommission zur Entwicklung eines Hotspot-Standardmodells. Dadurch Gewährleistung der Übertragbarkeit auf andere Regionen im Bedarfsfall.
 
 24. Verbesserung der Unterbringungsbedingungen in Griechenland: Aktivierung von EU-Hilfen für Griechenland zur Verbesserung der Unterbringungseinrichtungen auf den Inseln und zur Verhinderung von Transfers auf das Festland.
 
-25. EU-Türkei Erklärung: Hinwirken auf eine konsequente Umsetzung der EU­ Türkei Erklärung gemeinsam mit der EU-Kommission, wonach Schutzsuchende, die die Türkei als Transitland genutzt haben und auf den griechischen Inseln erstmals die EU betreten haben, wieder in die Türkei zurückgeführt werden sollen. Dafür Aufnahme von syrischen Staatsangehörigen aus der Türkei in die EU (1:1-Mechanismus).
+25. EU-Türkei Erklärung: Hinwirken auf eine konsequente Umsetzung der EU-Türkei Erklärung gemeinsam mit der EU-Kommission, wonach Schutzsuchende, die die Türkei als Transitland genutzt haben und auf den griechischen Inseln erstmals die EU betreten haben, wieder in die Türkei zurückgeführt werden sollen. Dafür Aufnahme von syrischen Staatsangehörigen aus der Türkei in die EU (1:1-Mechanismus).
 
 IV. Handlungsfeld Inland / national
 
@@ -187,9 +189,7 @@ Wir wollen zurück zu einem Schengen-Raum ohne Binnengrenzkontrollen. Das setzt 
 
 Maßnahmen
 
-26. Verbesserte Grenzkontrollen an der Schengen-Außengrenze: Schnelle Einführung des Europäischen Ein- und Ausreiseregisters (Entry-Exit System) mit dem Ein- und Ausreisen von Drittstaatsangehörigen sowie deren biometrische Merkmale an der Grenze künftig elektronisch erfasst und gespeichert werden sowie d es Europäischen Einreise-Registrierungs- und
-
-Autorisierungssystem (ETIAS), durch das bereits vor Abreise in dem Drittstaat eine Genehmigung als Voraussetzung für die Einreise erteilt werden muss .
+26. Verbesserte Grenzkontrollen an der Schengen-Außengrenze: Schnelle Einführung des Europäischen Ein- und Ausreiseregisters (Entry-Exit System) mit dem Ein- und Ausreisen von Drittstaatsangehörigen sowie deren biometrische Merkmale an der Grenze künftig elektronisch erfasst und gespeichert werden sowie des Europäischen Einreise-Registrierungs- und Autorisierungssystem (ETIAS), durch das bereits vor Abreise in dem Drittstaat eine Genehmigung als Voraussetzung für die Einreise erteilt werden muss.
 
 27. Binnengrenzkontrollen:
 
@@ -217,7 +217,7 @@ Wir wollen die Effizienz, Geschwindigkeit und Qualität von Asylverfahren steige
 
 Maßnahmen
 
-32. Optimierung des Asylverfahrens: Einrichtung von Ankunfts-, Entscheidungs­ und Rückführungszentren (AnkER-Zentren) als moderne Dienstleistungsbehörden sowie Umsetzung gemeinsam mit den Bundesländern. Schnelle, effiziente und sichere Asylverfahren durch Bündelung von Kompetenzen von Bund, Ländern und Kommunen. Der entscheidende Vorteil der AnkER-Zentren ist, dass künftig eine Verteilung der Antragsteller auf die Städte und Gemeinden erst erfolgt, wenn ihr Schutzstatus positiv festgestellt ist. Aufgaben und Verfahren der AnkER­ Zentren sind im Koalitionsvertrag konkret und für die Parteien der Koalition verbindlich beschrieben. Im Einzelnen:
+32. Optimierung des Asylverfahrens: Einrichtung von Ankunfts-, Entscheidungs- und Rückführungszentren (AnkER-Zentren) als moderne Dienstleistungsbehörden sowie Umsetzung gemeinsam mit den Bundesländern. Schnelle, effiziente und sichere Asylverfahren durch Bündelung von Kompetenzen von Bund, Ländern und Kommunen. Der entscheidende Vorteil der AnkER-Zentren ist, dass künftig eine Verteilung der Antragsteller auf die Städte und Gemeinden erst erfolgt, wenn ihr Schutzstatus positiv festgestellt ist. Aufgaben und Verfahren der AnkER-Zentren sind im Koalitionsvertrag konkret und für die Parteien der Koalition verbindlich beschrieben. Im Einzelnen:
 
 • In AnkER-Zentren: Präsenz und Zusammenarbeit aller am Asylverfahren beteiligten Behörden auf Bundes-, Landes- und kommunaler Ebene, d. h. insbesondere BAMF, BA, Aufnahmeeinrichtungen der Länder, Ausländerbehörden und Jugendämter. Möglichst auch Präsenz des zuständigen Verwaltungsgerichts vor Ort, um die verwaltungsgerichtlichen Eilverfahren weiter zu beschleunigen,
 
@@ -233,7 +233,7 @@ Maßnahmen
 
 • unmittelbare Durchsetzung der Ausreisepflicht aus den AnkER-Zentren nach bestandskräftigem Abschluss des erfolglosen Asylverfahrens und
 
-• stärkere Einbindung der Bundespolizei bei Rückführungen und Dublinüberstellungen auf dem Luftweg; hierzu ggf. personelle Verstärkung der Bundespolizei für die RückführungsbegIeitung.
+• stärkere Einbindung der Bundespolizei bei Rückführungen und Dublinüberstellungen auf dem Luftweg; hierzu ggf. personelle Verstärkung der Bundespolizei für die Rückführungsbegleitung.
 
 • über die Fragen der konkreten Ausgestaltung der AnkER-Zentren sowie der Zuständigkeit und Trägerschaft werden Vereinbarungen zwischen Bund und Ländern getroffen.
 
@@ -253,15 +253,15 @@ Maßnahmen
 
 • Gesundheitsprüfungen (im Einzelnen dazu Maßnahme 36) und
 
-• umfassende Schulung und einheitliche Handlungsleitfäden für alle Verfahrensschritte, weitere Erprobung und flächen deckende Einführung von IT-Assistenzsystemen für Identifizierungszwecke durch BAMF.
+• umfassende Schulung und einheitliche Handlungsleitfäden für alle Verfahrensschritte, weitere Erprobung und flächendeckende Einführung von IT-Assistenzsystemen für Identifizierungszwecke durch BAMF.
 
-34. Konsequente Prüfung d es Wegfalls der Schutzberechtigung:
+34. Konsequente Prüfung des Wegfalls der Schutzberechtigung:
 
 • Durchführung von Widerrufsverfahren bei rechtskräftig verurteilten Straftätern und bei Heimataufenthalten von Schutzberechtigten, die angegeben hatten, in ihrem Heimatland bedroht zu sein.
 
 • Bei Heimataufenthalten während des laufenden Asylverfahrens gilt in diesen Fällen der Asylantrag als zurückgenommen.
 
-• Hierzu Verbesserung des Datenaustausches zwischen Leistungs- und Ausländerbehörden mit BAMF, um ggf. sofort eine überprüfung einzuleiten.
+• Hierzu Verbesserung des Datenaustausches zwischen Leistungs- und Ausländerbehörden mit BAMF, um ggf. sofort eine Überprüfung einzuleiten.
 
 • Daneben Einführung einer gesetzlichen Mitwirkungspflicht der Schutzberechtigten im Widerrufsverfahren.
 
@@ -279,9 +279,9 @@ Maßnahmen
 
 37. Bessere Identifizierung und Sicherheitsprüfung von Drittstaatsangehörigen durch:
 
-• Verbesserung des technischen Verfahrens zur Feststellung von Sicherheitsbedenken; generelle Einbeziehung der Bundespolizei und Ermöglichung der übermittlung und Nutzung der AZR-Nummer zur eindeutigen Identifizierung in den Sicherheitsüberprüfungsverfahren, Schaffung einheitlicher Prozesse und Abgleichmöglichkeiten bei der Sicherheitsüberprüfung von Drittstaatsangehörigen,
+• Verbesserung des technischen Verfahrens zur Feststellung von Sicherheitsbedenken; generelle Einbeziehung der Bundespolizei und Ermöglichung der Übermittlung und Nutzung der AZR-Nummer zur eindeutigen Identifizierung in den Sicherheitsüberprüfungsverfahren, Schaffung einheitlicher Prozesse und Abgleichmöglichkeiten bei der Sicherheitsüberprüfung von Drittstaatsangehörigen,
 
-• Ausbau des Ausländerzentralregister (AZR) zum alleinigen zentralen Ausländerdateisystem und Abschaffung dezentraler Ausländerdateien in den Ausländerbehörden; dabei Fortentwicklung hin zu einer stärkere n Automatisierung,
+• Ausbau des Ausländerzentralregister (AZR) zum alleinigen zentralen Ausländerdateisystem und Abschaffung dezentraler Ausländerdateien in den Ausländerbehörden; dabei Fortentwicklung hin zu einer stärkeren Automatisierung,
 
 • Einführung eines standardisierten Prozesses aller beteiligten Behörden zur besseren und schnelleren Identifizierung von Mehrfach- und Intensivtätern mit dem Ziel, erforderliche polizeiliche (Gefahrenabwehr, Strafverfolgung) sowie asyl- und aufenthaltsrechtliche Maßnahmen (Widerrufsprüfung, Aufenthaltsbeendigung) eng aufeinander abzustimmen,
 
@@ -291,9 +291,9 @@ Maßnahmen
 
 • Ausweitung der Speichertatbestände im AZR zur besseren Steuerung von Rückführungen und freiwilligen Ausreisen sowie gewährten Ausreiseförderungen und bessere Identifizierung bei Rückführungen und
 
-• Aufbau eines europäischen Kerndatensystems zur europaweiten Verifizierung und überprüfung von ldentitäten, einschließlich des Austauschs mit Drittstaaten.
+• Aufbau eines europäischen Kerndatensystems zur europaweiten Verifizierung und Überprüfung von ldentitäten, einschließlich des Austauschs mit Drittstaaten.
 
-38. Leistungsrechtliche Sanktionierung bei Verletzung von Mitwirkungspflichten im Asylverfahren durch Schaffung eines unmittelbaren Datenaustausches zwischen BAMF und Leistungsbehörden. Leistungskürzungen nach dem Asylbewerberleistungsgesetz (Asylb LG) insbesondere bei:
+38. Leistungsrechtliche Sanktionierung bei Verletzung von Mitwirkungspflichten im Asylverfahren durch Schaffung eines unmittelbaren Datenaustausches zwischen BAMF und Leistungsbehörden. Leistungskürzungen nach dem Asylbewerberleistungsgesetz (AsylbLG) insbesondere bei:
 
 • Nichtmitwirkung bei der Identitätsklärung oder der Klärung der Staatsangehörigkeit, bei Terminen zur förmlichen Antragstellung beim BAMF, der Passersatzbeschaffung oder dem Vollzug der Ausreise trotz bestehender Ausreisepflicht und
 
@@ -301,9 +301,9 @@ Maßnahmen
 
 39. Bekämpfung von Asylleistungsmissbrauch durch:
 
-• Konsequente Anwendung des Sachleistungsprinzips bei Unterbringung in Aufnahmeeinrichtungen / Gemeinschaftsunterkünften und bei Ausreisepflichtigen (ggf. Einführung ein er neuen Regelbedarfsstufe) als Regelfall,
+• Konsequente Anwendung des Sachleistungsprinzips bei Unterbringung in Aufnahmeeinrichtungen / Gemeinschaftsunterkünften und bei Ausreisepflichtigen (ggf. Einführung einer neuen Regelbedarfsstufe) als Regelfall,
 
-• Verlängerung der Bezugsdauer von niedrigeren Leistungen nach dem AsylbLG auf 36 Monate, statt aktuell 15 Monate, zur Verzögerung von übergang in die mit höheren Sätzen versehene Sozialhilfe nach dem SGB XII und
+• Verlängerung der Bezugsdauer von niedrigeren Leistungen nach dem AsylbLG auf 36 Monate, statt aktuell 15 Monate, zur Verzögerung von Übergang in die mit höheren Sätzen versehene Sozialhilfe nach dem SGB XII und
 
 • Ermöglichung der Aufnahme von gemeinwohlorientierter Erwerbstätigkeit im laufenden Asylverfahren zur Strukturierung des Tagesablaufs während der Wartezeit.
 
@@ -315,7 +315,7 @@ Maßnahmen
 
 • Einführung eines Vorabentscheidungsverfahrens beim Bundesverwaltungsgericht zur Klärung von Grundsatzfragen,
 
-• Überprüfung der Rechtsmittel im Asylverfahren und Vollziehbarkelt der Ausreisepflicht trotz Rechtsmittelverfahren und
+• Überprüfung der Rechtsmittel im Asylverfahren und Vollziehbarkeit der Ausreisepflicht trotz Rechtsmittelverfahren und
 
 • Prüfung der Beteiligung von Schutzsuchenden an Gerichtskosten.
 
@@ -323,13 +323,13 @@ Maßnahmen
 
 42. Festlegung weiterer sicherer Herkunftsstaaten: Bestimmung von Algerien, Marokko, Tunesien und Georgien sowie weiterer Staaten mit einer regelmäßigen Anerkennungsquote von unter fünf Prozent zu sicheren Herkunftsstaaten zum Zwecke der Verfahrensbeschleunigung bei der Asylantragsprüfung.
 
-43. Förderung der legalen Zuwanderung: Erarbeitung eines bedarfsorientierten Fachkräftezuwanderungsgesetzes, das die bestehenden Regelungen im Aufenthaltsgesetz ergänzen und besser systematisieren soll, sowie Implementierung flankierender Maßnahmen bei Qualifikationsanerkennungs­- und Verwaltungsverfahren, Spracherwerb und Werbung im Ausland.
+43. Förderung der legalen Zuwanderung: Erarbeitung eines bedarfsorientierten Fachkräftezuwanderungsgesetzes, das die bestehenden Regelungen im Aufenthaltsgesetz ergänzen und besser systematisieren soll, sowie Implementierung flankierender Maßnahmen bei Qualifikationsanerkennungs- und Verwaltungsverfahren, Spracherwerb und Werbung im Ausland.
 
 Integration
 
 Politische Ziele
 
-Wir wollen, dass sich Menschen, die mit einem Schutzstatus länger in Deutschland bleiben, in unsere Gesellschaft und Werteordnung integrieren. Erfolgreiche Integration ist die Voraussetzung für gesellschaftlichen Zusammenhalt. Von allen Zuwanderern erwarten wir eine Identifikation mit unserem Land und die Anerkennung unserer Werte und Lebensweise . Am Beginn des Integrationsprozesses steht die die Teilnahme am lntegrationskurs, die wir für verpflichtete Teilnehmer verbindlicher gestalten und steuern wollen. Wir wollen die Teilnahme und den Erfolg an den bestehenden Integrationsangeboten sicherstellen. Wir wollen die Förderung von gemeinwohlorientierten Integrationsprojekten verbessern und noch gezielter untersuchen, ob die Ziele der Projekte auch erreicht werden.
+Wir wollen, dass sich Menschen, die mit einem Schutzstatus länger in Deutschland bleiben, in unsere Gesellschaft und Werteordnung integrieren. Erfolgreiche Integration ist die Voraussetzung für gesellschaftlichen Zusammenhalt. Von allen Zuwanderern erwarten wir eine Identifikation mit unserem Land und die Anerkennung unserer Werte und Lebensweise. Am Beginn des Integrationsprozesses steht die die Teilnahme am Integrationskurs, die wir für verpflichtete Teilnehmer verbindlicher gestalten und steuern wollen. Wir wollen die Teilnahme und den Erfolg an den bestehenden Integrationsangeboten sicherstellen. Wir wollen die Förderung von gemeinwohlorientierten Integrationsprojekten verbessern und noch gezielter untersuchen, ob die Ziele der Projekte auch erreicht werden.
 
 Maßnahmen
 
@@ -343,7 +343,7 @@ Maßnahmen
 
 48. Kontrolldichte erhöhen: Erhöhung der Anzahl der Kontrollen bei Integrationskursträgern und Integrationskursen in angemessenem Verhältnis zum gewachsenen lntegrationskurssystem.
 
-49. Effektivierung des Sanktionsregimes zum lntegrationskurssystem: Austausch mit den Ländern und der Bundesagentur für Arbeit darüber, wie verpflichtende Stellen stärker als bisher die ausgesprochenen Verpflichtungen nach halten und die bestehenden weitgehenden Sanktionsmöglichkeiten ausschöpfen können.
+49. Effektivierung des Sanktionsregimes zum lntegrationskurssystem: Austausch mit den Ländern und der Bundesagentur für Arbeit darüber, wie verpflichtende Stellen stärker als bisher die ausgesprochenen Verpflichtungen nachhalten und die bestehenden weitgehenden Sanktionsmöglichkeiten ausschöpfen können.
 
 50. Bessere Kurszuweisung: Sicherstellung der Teilnahme von Verpflichteten am Integrationskurs durch verstärkte und verbesserte Zuweisung von Teilnehmern.
 
@@ -352,15 +352,18 @@ Maßnahmen
 Lernschwierigkeiten eine Hilfestellung angeboten wird .
 
 52. Integrationsprojektförderung: Ermittlung von Wirkungsmodellen für die Integrationsprojektförderung des BAMF und Entwicklung von Empfehlungen für Projektträger.
+
 Rückkehr
+
 Politische Ziele
 
 Vollziehbar Ausreisepflichtige müssen unser Land zeitnah verlassen. Der negative Abschluss eines Asylverfahrens muss gleichzeitig der Beginn des Abschiebungsverfahrens sein. Neben der freiwilligen Rückkehr wollen wir die effektivere Durchsetzung einer bestehenden Ausreisepflicht erreichen. Die Zahlen der freiwilligen Rückkehr und der Rückführung müssen deutlich gesteigert werden. Die Rückführung fällt primär in die Zuständigkeit der Länder. Der Bund ist jedoch zu einer zukünftig deutlich stärkeren Unterstützung bereit.
+
 Maßnahmen
 
 53. Mitwirkungsverweigerer klarer identifizieren und sanktionieren: Schaffung einer Bescheinigung unterhalb der Duldung für Ausreisepflichtige, denen die Rückführungshindernisse zuzurechnen sind, z.B. in Fällen von ldentitätsverschleierung; damit erleichterte Abgrenzbarkeit von Fällen mit humanitärem Hintergrund und Sanktionierung des Personenkreises möglich.
 
-54. Klare Pflicht zur Passbeschaffung: Knüpfung von staatlichen Erlaubnissen und Leistungen an das Vorliegen von gültigen Reisedokumenten. Damit übertragung der Verantwortlichkeit zur zumutbaren Beschaffung von gültigen Reisedokumenten an Betroffene.
+54. Klare Pflicht zur Passbeschaffung: Knüpfung von staatlichen Erlaubnissen und Leistungen an das Vorliegen von gültigen Reisedokumenten. Damit Übertragung der Verantwortlichkeit zur zumutbaren Beschaffung von gültigen Reisedokumenten an Betroffene.
 
 55. Effektiv gegen Gefährder und Straftäter:
 
